@@ -1,8 +1,8 @@
 # Advent of Code 2015
-[2015 Calendar](https://adventofcode.com/2015)
-
-The [project](https://github.com/PaigeLClemons/Advent-of-Code-2015/projects/1) for the repo
-
+[2015 Calendar](https://adventofcode.com/2015)  
+  
+The [project](https://github.com/PaigeLClemons/Advent-of-Code-2015/projects/1) for the repo  
+  
 [Day 1](https://adventofcode.com/2015/day/1)  
 [Day 2](https://adventofcode.com/2015/day/2)  
 [Day 3](https://adventofcode.com/2015/day/3)  
